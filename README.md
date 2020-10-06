@@ -1,6 +1,6 @@
 Welcome! It is nice to see someone drop in my Github page :wave:
 
-I am Oguz Ziya Koseomur, currently Master's student in Technical University Munich, Computational Science and Engineering program. However, you can call me someone who is stuck in between computer science and mechanical engineering :shipit:
+I am Oguz Ziya Koseomur, currently Master's student in Technical University Munich, Computational Science and Engineering program. However, you can call me someone who is stuck in between **computer science** and **mechanical engineering** :shipit:
 
 I mainly work in the field of:
 - **Computational Fluid Dynamics (CFD):** Turbulence modeling, combustion, solver development and algorithms
