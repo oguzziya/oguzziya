@@ -5,7 +5,7 @@ I am Oguz Ziya Koseomur, currently Master's student in Technical University Muni
 I mainly work in the field of:
 - **Computational Fluid Dynamics (CFD):** Turbulence modeling, combustion, solver development and algorithms
 - **Numerical methods for PDEs:** finite element, finite volume methods
-- **Scientific computing:**: Linear solvers, discretization, parallel computing
+- **Scientific computing:** Linear solvers, discretization, parallel computing
 
 And I am also interested in Deep Learning, especially its applications in the data-driven modeling and differentiable solvers.
 
