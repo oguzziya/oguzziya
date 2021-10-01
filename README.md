@@ -1,4 +1,4 @@
-Welcome! It is nice to see someone dropping in my Github page :wave:
+Hey there,
 
 I am Oguz Ziya Koseomur, currently Master's student in Technical University Munich, Computational Science and Engineering program. However, you can call me someone who is stuck in between **computer science** and **mechanical engineering** :shipit:
 
